@@ -30,5 +30,7 @@ Assiment     |      Links           |
    Read15    | [Read15](Read15.md)  |
    Read16    | [Read16](Read16.md)  |
    Read17    | [Read17](Read17.md)  |
+   Read18    | [Read18](Read18.md)  |
+   Read19    | [Read19](Read19.md)  |
 
    
