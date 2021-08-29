@@ -33,5 +33,6 @@ Assiment     |      Links           |
    Read18    | [Read18](Read18.md)  |
    Read19    | [Read19](Read19.md)  |
    Read26    | [Read26](Read26.md)  |
+   Read27    | [Read27](Read27.md)  |
 
    
