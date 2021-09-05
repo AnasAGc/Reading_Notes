@@ -37,5 +37,7 @@ Assiment     |      Links           |
    Read28    | [Read28](Read28.md)  |
    Read29    | [Read29](Read29.md)  |
    Read30    | [Read30](Read30.md)  |
+   Read31    | [Read31](Read31.md)  |
+   Read32    | [Read32](Read32.md)  |
 
    
