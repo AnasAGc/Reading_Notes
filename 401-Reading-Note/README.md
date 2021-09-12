@@ -41,5 +41,7 @@ Assiment     |      Links           |
    Read32    | [Read32](Read32.md)  |
    Read33    | [Read33](Read33.md)  |
    Read34    | [Read34](Read34.md)  |
+   Read36    | [Read36](Read36.md)  |
+   Read37    | [Read37](Read37.md)  |
 
    
