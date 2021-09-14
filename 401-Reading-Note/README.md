@@ -44,5 +44,6 @@ Assiment     |      Links           |
    Read36    | [Read36](Read36.md)  |
    Read37    | [Read37](Read37.md)  |
    Read38    | [Read38](Read38.md)  |
+   Read39    | [Read39](Read39.md)  |
 
    
